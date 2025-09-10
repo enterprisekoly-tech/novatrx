@@ -1,0 +1,6 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+requests==2.31.0
+Pillow==10.2.0
+shopifyapi==12.7.0
+klaviyo-api==2.0.0
